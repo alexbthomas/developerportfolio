@@ -28,7 +28,7 @@ const About = () => {
             <article className='about__card'>
               <GiLaptop className='about__icon'/>
               <h5>Skills</h5>
-              <small>Python, Java, C++, Javascript, HTML/CSS, React</small>
+              <small>HTML/CSS, JavaScript, React, Python, Java, C++, mySQL, AWS, Django</small>
             </article>
 
             <article className='about__card'>
