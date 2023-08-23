@@ -12,7 +12,7 @@ const data = [
     id: 2,
     // image: IMG1,
     title: 'Chat Bot',
-    github: "https://github.com"
+    github: "https://github.com/alexbthomas/chatbot"
   },
   {
     id: 3,
