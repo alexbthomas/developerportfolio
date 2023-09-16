@@ -22,13 +22,13 @@ const About = () => {
             <article className='about__card'>
               <GiTeacher className='about__icon'/>
               <h5>Experience</h5>
-              <small>4+ years teaching programming at theCoderSchool Frisco</small>
+              <small>4+ years teaching programming at theCoderSchool</small>
             </article>
 
             <article className='about__card'>
               <GiLaptop className='about__icon'/>
               <h5>Skills</h5>
-              <small>HTML/CSS, JavaScript, React, Python, Java, C++, mySQL, AWS, Django</small>
+              <small>HTML/CSS, JavaScript, React, Python, Java, C++, mySQL, Flask, Firebase, NLTK</small>
             </article>
 
             <article className='about__card'>

@@ -62,6 +62,11 @@ const Experience = () => {
               <IoMdCheckmarkCircle className='experience__content-icon'/>
               <h4>Flask</h4>
             </article>
+
+            <article className="experience__details">
+              <IoMdCheckmarkCircle className='experience__content-icon'/>
+              <h4>Firebase</h4>
+            </article>
           </div>
         </div>
 
